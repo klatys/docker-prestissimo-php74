@@ -14,6 +14,7 @@ RUN apt-get update && \
     libonig-dev \
     libxslt-dev \
     libzip-dev \
+    rsync \
     curl \
     git \
     subversion \
